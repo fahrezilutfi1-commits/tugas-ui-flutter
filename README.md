@@ -32,14 +32,12 @@ Aplikasi ini meniru tampilan halaman beranda aplikasi belanja online (Shopee/Tok
 ---
 
 ## Screenshot
-
-![Hasil UI](screenshot/hasil_ui.png)
+![Hasil UI](screenshot/Hasil_ui.jpeg)
 
 ---
 
 ## Wireframe
-
-![Wireframe](wireframe/wireframe_foto.jpg)
+![Wireframe](wireframe/Wireframe_foto.jpg)
 
 ---
 
